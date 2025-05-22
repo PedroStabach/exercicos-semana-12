@@ -9,4 +9,4 @@ for i in range(5):
             linha.append(0)
     matriz.append(linha)
 for linha in matriz:
-    print(matriz[linha])
+    print(linha)
